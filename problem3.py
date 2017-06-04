@@ -5,7 +5,7 @@
 
 """
 
-num = 600851475143
+num = 600851475143 # FAULT FOR EVEN INPUTS!!!!!
 div = 2
 
 check = 1
@@ -20,7 +20,7 @@ while div < num:
 		check *= factors[x]
 
 		if check == num:
-			target = factors[x]
+			target = factors[x]		 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 			found = True			 # break the while loop
 
 	if found: break
