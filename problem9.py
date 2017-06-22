@@ -19,7 +19,7 @@ while b<c:
 	while a < b:
 		if a**2 + b**2 == c**2: 
 			print("Product in question:", a*b*c, "Test checks:", a+b+c, a, b, c, )
-			exit
+			#exit
 		a+=1
 		c-=1
 	a=1
