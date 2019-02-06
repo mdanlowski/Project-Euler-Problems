@@ -1,4 +1,4 @@
-# WARNING: FILES CONTAIN SOLUTIONS, NOT TIPS, TO PROBLEMS FROM www.projecteuler.net, IF YOU PLAN ON SOLVING THEM ON YOUR OWN, DO NOT OPEN THE FILES
+# Disclaimer: files contain solutions, not tips, to problems from www.projecteuler.net, if you plan on solving them on your own, do not open the files
 
 ## Project-Euler-Problems
 Set of my programs written for solving problems provided @ projecteuler.net
